@@ -6,7 +6,7 @@ Data preprpcessing pipeline of raw sequencing data.
 
 Dechun Lin
 
-## Requirements depandencies
+## Requirements dependencies
 
 * A UNIX based operating system.
 * python 3
