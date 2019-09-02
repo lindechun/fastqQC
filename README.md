@@ -14,7 +14,7 @@ Dechun Lin
 * [fastp](https://github.com/OpenGene/fastp)
 * SOAPnuke
 
-> After installed, you need link fastp and SOAPnuke to `/your/path/to/fastqQC/src/` or install to `/your/path/to/fastqQC/src`
+After installed, you need link fastp and SOAPnuke to `/your/path/to/fastqQC/src/` or install to `/your/path/to/fastqQC/src`
 
 ## demo
 ### pe
